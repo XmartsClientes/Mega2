@@ -7,3 +7,8 @@
 	path = xmarts/xma-export-standard-price
 	url = git@github.com:xmarts/xma-export-standard-price.git
 	branch = 15.0
+
+[submodule "xmarts/xma-macom-fix"]
+	path = xmarts/xma-macom-fix
+	url = git@github.com:xmarts/xma-macom-fix.git
+	branch = 15.0
