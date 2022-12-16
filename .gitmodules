@@ -12,3 +12,8 @@
 	path = xmarts/xma-macom-fix
 	url = git@github.com:xmarts/xma-macom-fix.git
 	branch = 15.0
+
+[submodule "xmarts/credit_limit_alert_update"]
+	path = xmarts/credit_limit_alert_update
+	url = git@github.com:xmarts/credit_limit_alert_update.git
+	branch = 15.0
